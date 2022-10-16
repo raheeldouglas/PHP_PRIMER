@@ -8,6 +8,7 @@
     <title>PHP Primer- <?php echo $title ?></title>
 </head>
 
+<body>
    <div class="container">
  
     <h2> Follow each link to the page example Below</h2>
