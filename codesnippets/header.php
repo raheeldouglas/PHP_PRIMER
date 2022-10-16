@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <title>PHP Primer- <?php echo $title ?></title>
 </head>
-<body>
+
    <div class="container">
  
     <h2> Follow each link to the page example Below</h2>
@@ -23,3 +23,4 @@
         <li class="nav-item"><a class="nav-link" href= "functions.php"> Simple functions </a></li>
 
     </ul>
+</body>
